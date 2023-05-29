@@ -54,4 +54,3 @@
 
 ## Контактная информация
 - Email: gretsky.mch@gmail.com
-- hh.ru: https://spb.hh.ru/resume/1e81e4f4ff0bcbb0f00039ed1f73726335524c
