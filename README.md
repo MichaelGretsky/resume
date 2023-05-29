@@ -1,11 +1,10 @@
 # Портфолио: аналитик данных
 
-## Обо мне 
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xUOxeR3VDuXo5XRYpq/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/xUOxeR3VDuXo5XRYpq/giphy.gif" width="300"/>
 </div>
 
+## Обо мне 
 Привет! Меня зовут Михаил, я начинающий аналитик данных. 
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 <br>
